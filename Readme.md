@@ -54,7 +54,7 @@ Unlike theoretical algorithms that simply output "YES/NO", this pipeline explici
 
 <div align="center">
   <video width="700" autoplay loop muted playsinline>
-    <source src="assets/sequence_animation.mp4" type="video/mp4">
+    <source src="./assets/sequence_animation.mp4" type="video/mp4">
   </video>
 </div>
 
