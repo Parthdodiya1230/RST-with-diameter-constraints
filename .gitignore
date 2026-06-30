@@ -1,0 +1,16 @@
+# C++ Compiled Executables
+rst_naive
+rst_unopt
+rst_cons
+rst_opt
+*.o
+*.out
+*.exe
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
